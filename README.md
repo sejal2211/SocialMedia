@@ -1,4 +1,10 @@
-# React + Vite
+# Technologies used
+1.html/
+2.css/
+3.Javascript/
+4.Reactjs(ContextApi)/
+5.Bootstrap
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
